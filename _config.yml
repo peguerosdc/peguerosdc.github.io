@@ -2,14 +2,12 @@
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: El Blog de Pegueros                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Dev + Physics ⚛   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Un blog de divulgación científica con tintes de desarrollo de software (cuando se puede)
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://peguerosdc.github.io/'
@@ -82,7 +80,7 @@ theme_mode: dark
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: /assets/img/avatar/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
