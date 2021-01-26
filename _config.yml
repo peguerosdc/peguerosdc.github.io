@@ -12,26 +12,26 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://peguerosdc.github.io/'
 
-author: your_full_name                  # change to your full name
+author: Carlos Pegueros                  # change to your full name
 
 github:
-  username: github_username             # change to your github username
+  username: peguerosdc             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: peguerosdc            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Carlos Pegueros                  # it will shows as the copyright owner in Footer
+  email: peguerosdc@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/peguerosdc      # change to your twitter homepage
+    - https://github.com/peguerosdc       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/peguerosdc
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
@@ -42,10 +42,10 @@ google_site_verification: google_meta_tag_verification # change to your verifica
 baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/Mexico_City
 
 google_analytics:
-  id: ''          # Fill with your Google Analytics ID
+  id: 'G-5L2FQTR4YD'          # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
@@ -72,7 +72,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode: dark
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -117,7 +117,7 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: true    # Enable comments in posts.
+      comments: false    # Enable comments in posts.
       toc: true         # Display TOC column in posts.
       breadcrumb:
         -
