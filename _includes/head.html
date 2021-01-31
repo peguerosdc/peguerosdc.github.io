@@ -69,8 +69,11 @@
   {% include css-selector.html %}
   
   <!-- Meta tags -->
-  <meta name="og:image" content="{{ page.thumbnail }}">
-  <meta name="twitter:image" content="{{ page.thumbnail }}">
+  {% if page.thumbnail %}
+    <meta name="og:image" content="https://peguerosdc.github.io{{ page.thumbnail }}">
+  {% else %}
+    <meta name="og:image" content="https://peguerosdc.github.io/assets/img/avatar/avatar.jpg">
+  {% endif %}
 
   <!-- JavaScripts -->
 
