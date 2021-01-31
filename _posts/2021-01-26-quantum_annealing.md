@@ -1,13 +1,13 @@
 ---
 title: Quantum Annealing
-date: 2021-01-26 13:00:00 +/-0600
+date: 2021-01-31 18:00:00 +/-0600
 categories: [Quantum Computing]
 tags: [quantum-computing, optimization, minimum-energy]
 thumbnail: /assets/img/quantum-annealing/paper.png
 math: true
 ---
 
-Hoy vengo a compartirles una técnica que acabo de aprender que creo es una combinación muy bella y "simple" de varias cosas de física y programación. Ilustra muuuuy bien la promesa de lo que sería la computación cuántica para resolver problemas NṔ-Completos o NP-Difíciles (más en unos momentos) y se llama ["Quantum Annealing"](https://arxiv.org/abs/cond-mat/9804280).
+Hoy vengo a compartirles una técnica que acabo de aprender que creo es una combinación muy bella y "simple" de varias cosas de física y programación. Ilustra muuuuy bien la promesa de lo que sería la computación cuántica para resolver problemas NP-Completos o NP-Difíciles (más en unos momentos) y se llama ["Quantum Annealing"](https://arxiv.org/abs/cond-mat/9804280).
 
 Si alguien no se siente cómodo viendo ecuaciones, no se preocupe. Las puse para los math geeks y realmente no son el contenido principal.
 
