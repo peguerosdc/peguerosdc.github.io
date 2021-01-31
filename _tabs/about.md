@@ -1,8 +1,7 @@
 ---
-title: About
+title: Acerca de
 icon: fas fa-info
 order: 4
 ---
 
-
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+> "A veces la ciencia es más arte que ciencia, Morty. Mucha gente no entiende eso." - Rick Sánchez.
