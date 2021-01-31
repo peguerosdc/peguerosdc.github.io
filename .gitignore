@@ -14,3 +14,7 @@ doc
 # npm dependencies
 node_modules
 package-lock.json
+
+# python dirs used in utils
+__pycache__
+venv
