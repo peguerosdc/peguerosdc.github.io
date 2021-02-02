@@ -1,6 +1,6 @@
 ---
 title: Quantum Annealing
-date: 2021-01-31 18:00:00 +/-0600
+date: 2021-02-01 20:00:00 +/-0600
 categories: [Quantum Computing]
 tags: [quantum-computing, optimization, minimum-energy]
 thumbnail: /assets/img/quantum-annealing/paper.png
