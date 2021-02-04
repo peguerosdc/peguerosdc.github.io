@@ -1,6 +1,6 @@
 ---
 title: Fondo Cósmico de Neutrinos
-date: 2021-02-01 20:00:00 +/-0600
+date: 2021-02-03 18:45:00 +/-0600
 categories: [Cosmología]
 tags: [cosmology, neutrinos, photons, cmb, big-bang, standard-model, particle-physics]
 thumbnail: /assets/img/neutrino-background/cover.png
