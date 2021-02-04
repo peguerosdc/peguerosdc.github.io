@@ -1,8 +1,8 @@
 ---
 title: Quantum Annealing
 date: 2021-02-01 20:00:00 +/-0600
-categories: [Quantum Computing]
-tags: [quantum-computing, optimization, minimum-energy]
+categories: [Computación Cuántica]
+tags: [quantum-computing, quantum-mechanics, optimization, minimum-energy]
 thumbnail: /assets/img/quantum-annealing/paper.png
 math: true
 ---
@@ -72,7 +72,7 @@ La palabra *"annealing"* se traduce textualmente como *"recocido"* y se refiere 
 
 Si encendemos la computadora cuántica y enfriamos a los super conductores para que exhiban propiedades cuánticas, los estaríamos poniendo en su estado de energía mínima (se le llama **"estado base"**). ¡Pero lo que nos interesa es el estado base de NUESTRO sistema (con todo y restricciones), no del sistema con el que enciende la computadora!
 
-Físicamente, esta transformación se hace apagando gradualmente los campos magnéticos que bootearon a la computadora e ir encendiendo a los que van a configurar a nuestro sistema a un ritmo similar para, poco a poco, llevar a la computadora cuántica al sistema que nos interesa.
+Físicamente, esta transformación se hace apagando gradualmente los campos magnéticos que bootearon a la computadora (que digamos están descritos por un Hamiltoniano $$H_0$$) e ir encendiendo a los que van a configurar a nuestro sistema (llamémoslos $$H_1$$) a un ritmo similar para, poco a poco, llevar a la computadora cuántica al sistema que nos interesa.
 
 {% include vector-eq.html src="/assets/img/quantum-annealing/annealing.svg" width="80%" %}
 
